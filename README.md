@@ -1,2 +1,2 @@
-# CHATBOT_KMITL-Lifestyle_vol.3
- CHATBOT_KMITL-Lifestyle_vol.3 develop from vol.2
+# botkit-facebook-wrapper
+An easy to use wrapper for creating facebook chatbots. 

@@ -1,0 +1,13 @@
+{"intents": [
+    {"tag": "Greetings",
+      "patterns": ["สวัสดีค่ะ", "สวัสดีครับ", "Is anyone there?", "Hello", "Good day"],
+      "responses": ["สวัสดีค่ะ^^", "Good to see you again", "Hi there, how can I help?"],
+      "context_set": ""
+    },
+    {"tag": "FAQs",
+      "patterns": ["ทำไมค่าเทอมไม่ตัดสักที", "ค่าเทอมไม่ตัด", "ค่าเทอมตัดเมื่อไร"],
+      "responses": ["อยู่ในระหว่างการตรวจสอบข้อมูล โปรดรอ 2-3 วัน นับจากวันที่ชำระเงินนะคะ"],
+      "context_set": ""
+    }
+  ]
+  }
